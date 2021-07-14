@@ -7,7 +7,7 @@
   <html lang="es">
   	<head>
   		<meta charset="utf-8" />
-  		<title>ACV2'S FRIENDS beta</title>
+  		<title>ACV2'S FRIENDS BETA</title>
 
       <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
   		<link rel="stylesheet" href="<?=base_url?>assets/css/styles.css" />
@@ -19,7 +19,7 @@
   				<div id="logo">
 
   					<img src="<?=base_url?>assets/img/perro.png" alt="Camiseta Logo" />
-            <h1 id="nombre" >   ACV2'S  FRIENDS ©℗®™    </h1>
+            <h1 id="nombre" >   ACV2'S  FRIENDS BETA ©℗®™    </h1>
 
   					<a href="index.php">
 
